@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex5.previsao\obj\Debug\netcoreapp2.1\ex5.previsao.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex5.previsao\obj\Debug\netcoreapp2.1\ex5.previsao.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex5.previsao\obj\Debug\netcoreapp2.1\ex5.previsao.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex5.previsao\obj\Debug\netcoreapp2.1\ex5.previsao.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex5.previsao\bin\Debug\netcoreapp2.1\ex5.previsao.deps.json
+C:\Users\34132336883\Documents\csharp\ex5.previsao\bin\Debug\netcoreapp2.1\ex5.previsao.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex5.previsao\bin\Debug\netcoreapp2.1\ex5.previsao.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex5.previsao\bin\Debug\netcoreapp2.1\ex5.previsao.dll
+C:\Users\34132336883\Documents\csharp\ex5.previsao\bin\Debug\netcoreapp2.1\ex5.previsao.pdb
+C:\Users\34132336883\Documents\csharp\ex5.previsao\obj\Debug\netcoreapp2.1\ex5.previsao.dll
+C:\Users\34132336883\Documents\csharp\ex5.previsao\obj\Debug\netcoreapp2.1\ex5.previsao.pdb

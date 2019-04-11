@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex20maisarray\obj\Debug\netcoreapp2.1\ex20maisarray.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex20maisarray\obj\Debug\netcoreapp2.1\ex20maisarray.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex20maisarray\obj\Debug\netcoreapp2.1\ex20maisarray.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex20maisarray\obj\Debug\netcoreapp2.1\ex20maisarray.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex20maisarray\bin\Debug\netcoreapp2.1\ex20maisarray.deps.json
+C:\Users\34132336883\Documents\csharp\ex20maisarray\bin\Debug\netcoreapp2.1\ex20maisarray.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex20maisarray\bin\Debug\netcoreapp2.1\ex20maisarray.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex20maisarray\bin\Debug\netcoreapp2.1\ex20maisarray.dll
+C:\Users\34132336883\Documents\csharp\ex20maisarray\bin\Debug\netcoreapp2.1\ex20maisarray.pdb
+C:\Users\34132336883\Documents\csharp\ex20maisarray\obj\Debug\netcoreapp2.1\ex20maisarray.dll
+C:\Users\34132336883\Documents\csharp\ex20maisarray\obj\Debug\netcoreapp2.1\ex20maisarray.pdb

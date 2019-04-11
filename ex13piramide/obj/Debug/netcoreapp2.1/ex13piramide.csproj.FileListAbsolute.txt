@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex13piramide\obj\Debug\netcoreapp2.1\ex13piramide.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex13piramide\obj\Debug\netcoreapp2.1\ex13piramide.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex13piramide\obj\Debug\netcoreapp2.1\ex13piramide.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex13piramide\obj\Debug\netcoreapp2.1\ex13piramide.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex13piramide\bin\Debug\netcoreapp2.1\ex13piramide.deps.json
+C:\Users\34132336883\Documents\csharp\ex13piramide\bin\Debug\netcoreapp2.1\ex13piramide.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex13piramide\bin\Debug\netcoreapp2.1\ex13piramide.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex13piramide\bin\Debug\netcoreapp2.1\ex13piramide.dll
+C:\Users\34132336883\Documents\csharp\ex13piramide\bin\Debug\netcoreapp2.1\ex13piramide.pdb
+C:\Users\34132336883\Documents\csharp\ex13piramide\obj\Debug\netcoreapp2.1\ex13piramide.dll
+C:\Users\34132336883\Documents\csharp\ex13piramide\obj\Debug\netcoreapp2.1\ex13piramide.pdb

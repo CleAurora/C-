@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex27datanascimento\bin\Debug\netcoreapp2.1\ex27datanascimento.deps.json
+C:\Users\34132336883\Documents\csharp\ex27datanascimento\bin\Debug\netcoreapp2.1\ex27datanascimento.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex27datanascimento\bin\Debug\netcoreapp2.1\ex27datanascimento.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex27datanascimento\bin\Debug\netcoreapp2.1\ex27datanascimento.dll
+C:\Users\34132336883\Documents\csharp\ex27datanascimento\bin\Debug\netcoreapp2.1\ex27datanascimento.pdb
+C:\Users\34132336883\Documents\csharp\ex27datanascimento\obj\Debug\netcoreapp2.1\ex27datanascimento.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex27datanascimento\obj\Debug\netcoreapp2.1\ex27datanascimento.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex27datanascimento\obj\Debug\netcoreapp2.1\ex27datanascimento.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex27datanascimento\obj\Debug\netcoreapp2.1\ex27datanascimento.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex27datanascimento\obj\Debug\netcoreapp2.1\ex27datanascimento.dll
+C:\Users\34132336883\Documents\csharp\ex27datanascimento\obj\Debug\netcoreapp2.1\ex27datanascimento.pdb

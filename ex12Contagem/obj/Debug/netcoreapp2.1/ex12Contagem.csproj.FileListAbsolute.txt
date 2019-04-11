@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex12Contagem\bin\Debug\netcoreapp2.1\ex12Contagem.deps.json
+C:\Users\34132336883\Documents\csharp\ex12Contagem\bin\Debug\netcoreapp2.1\ex12Contagem.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex12Contagem\bin\Debug\netcoreapp2.1\ex12Contagem.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex12Contagem\bin\Debug\netcoreapp2.1\ex12Contagem.dll
+C:\Users\34132336883\Documents\csharp\ex12Contagem\bin\Debug\netcoreapp2.1\ex12Contagem.pdb
+C:\Users\34132336883\Documents\csharp\ex12Contagem\obj\Debug\netcoreapp2.1\ex12Contagem.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex12Contagem\obj\Debug\netcoreapp2.1\ex12Contagem.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex12Contagem\obj\Debug\netcoreapp2.1\ex12Contagem.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex12Contagem\obj\Debug\netcoreapp2.1\ex12Contagem.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex12Contagem\obj\Debug\netcoreapp2.1\ex12Contagem.dll
+C:\Users\34132336883\Documents\csharp\ex12Contagem\obj\Debug\netcoreapp2.1\ex12Contagem.pdb

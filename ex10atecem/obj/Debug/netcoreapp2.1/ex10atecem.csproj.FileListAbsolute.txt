@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex10atecem\obj\Debug\netcoreapp2.1\ex10atecem.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex10atecem\obj\Debug\netcoreapp2.1\ex10atecem.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex10atecem\obj\Debug\netcoreapp2.1\ex10atecem.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex10atecem\obj\Debug\netcoreapp2.1\ex10atecem.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex10atecem\bin\Debug\netcoreapp2.1\ex10atecem.deps.json
+C:\Users\34132336883\Documents\csharp\ex10atecem\bin\Debug\netcoreapp2.1\ex10atecem.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex10atecem\bin\Debug\netcoreapp2.1\ex10atecem.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex10atecem\bin\Debug\netcoreapp2.1\ex10atecem.dll
+C:\Users\34132336883\Documents\csharp\ex10atecem\bin\Debug\netcoreapp2.1\ex10atecem.pdb
+C:\Users\34132336883\Documents\csharp\ex10atecem\obj\Debug\netcoreapp2.1\ex10atecem.dll
+C:\Users\34132336883\Documents\csharp\ex10atecem\obj\Debug\netcoreapp2.1\ex10atecem.pdb

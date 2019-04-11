@@ -1,0 +1,4 @@
+C:\Users\34132336883\Documents\csharp\ex22notasalunos\obj\Debug\netcoreapp2.1\ex22notasalunos.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex22notasalunos\obj\Debug\netcoreapp2.1\ex22notasalunos.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex22notasalunos\obj\Debug\netcoreapp2.1\ex22notasalunos.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex22notasalunos\obj\Debug\netcoreapp2.1\ex22notasalunos.AssemblyInfo.cs

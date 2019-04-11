@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex17piramidinhas\bin\Debug\netcoreapp2.1\ex17piramidinhas.deps.json
+C:\Users\34132336883\Documents\csharp\ex17piramidinhas\bin\Debug\netcoreapp2.1\ex17piramidinhas.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex17piramidinhas\bin\Debug\netcoreapp2.1\ex17piramidinhas.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex17piramidinhas\bin\Debug\netcoreapp2.1\ex17piramidinhas.dll
+C:\Users\34132336883\Documents\csharp\ex17piramidinhas\bin\Debug\netcoreapp2.1\ex17piramidinhas.pdb
+C:\Users\34132336883\Documents\csharp\ex17piramidinhas\obj\Debug\netcoreapp2.1\ex17piramidinhas.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex17piramidinhas\obj\Debug\netcoreapp2.1\ex17piramidinhas.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex17piramidinhas\obj\Debug\netcoreapp2.1\ex17piramidinhas.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex17piramidinhas\obj\Debug\netcoreapp2.1\ex17piramidinhas.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex17piramidinhas\obj\Debug\netcoreapp2.1\ex17piramidinhas.dll
+C:\Users\34132336883\Documents\csharp\ex17piramidinhas\obj\Debug\netcoreapp2.1\ex17piramidinhas.pdb

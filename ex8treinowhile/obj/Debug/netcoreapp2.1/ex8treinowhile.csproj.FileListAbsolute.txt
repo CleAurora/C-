@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex8treinowhile\obj\Debug\netcoreapp2.1\ex8treinowhile.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex8treinowhile\obj\Debug\netcoreapp2.1\ex8treinowhile.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex8treinowhile\obj\Debug\netcoreapp2.1\ex8treinowhile.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex8treinowhile\obj\Debug\netcoreapp2.1\ex8treinowhile.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex8treinowhile\bin\Debug\netcoreapp2.1\ex8treinowhile.deps.json
+C:\Users\34132336883\Documents\csharp\ex8treinowhile\bin\Debug\netcoreapp2.1\ex8treinowhile.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex8treinowhile\bin\Debug\netcoreapp2.1\ex8treinowhile.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex8treinowhile\bin\Debug\netcoreapp2.1\ex8treinowhile.dll
+C:\Users\34132336883\Documents\csharp\ex8treinowhile\bin\Debug\netcoreapp2.1\ex8treinowhile.pdb
+C:\Users\34132336883\Documents\csharp\ex8treinowhile\obj\Debug\netcoreapp2.1\ex8treinowhile.dll
+C:\Users\34132336883\Documents\csharp\ex8treinowhile\obj\Debug\netcoreapp2.1\ex8treinowhile.pdb

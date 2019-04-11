@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\primeiroprojeto\bin\Debug\netcoreapp2.1\primeiroprojeto.deps.json
+C:\Users\34132336883\Documents\csharp\primeiroprojeto\bin\Debug\netcoreapp2.1\primeiroprojeto.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\primeiroprojeto\bin\Debug\netcoreapp2.1\primeiroprojeto.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\primeiroprojeto\bin\Debug\netcoreapp2.1\primeiroprojeto.dll
+C:\Users\34132336883\Documents\csharp\primeiroprojeto\bin\Debug\netcoreapp2.1\primeiroprojeto.pdb
+C:\Users\34132336883\Documents\csharp\primeiroprojeto\obj\Debug\netcoreapp2.1\primeiroprojeto.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\primeiroprojeto\obj\Debug\netcoreapp2.1\primeiroprojeto.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\primeiroprojeto\obj\Debug\netcoreapp2.1\primeiroprojeto.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\primeiroprojeto\obj\Debug\netcoreapp2.1\primeiroprojeto.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\primeiroprojeto\obj\Debug\netcoreapp2.1\primeiroprojeto.dll
+C:\Users\34132336883\Documents\csharp\primeiroprojeto\obj\Debug\netcoreapp2.1\primeiroprojeto.pdb

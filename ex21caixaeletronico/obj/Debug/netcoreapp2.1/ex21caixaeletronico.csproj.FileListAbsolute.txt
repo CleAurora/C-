@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex21caixaeletronico\obj\Debug\netcoreapp2.1\ex21caixaeletronico.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex21caixaeletronico\obj\Debug\netcoreapp2.1\ex21caixaeletronico.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex21caixaeletronico\obj\Debug\netcoreapp2.1\ex21caixaeletronico.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex21caixaeletronico\obj\Debug\netcoreapp2.1\ex21caixaeletronico.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex21caixaeletronico\bin\Debug\netcoreapp2.1\ex21caixaeletronico.deps.json
+C:\Users\34132336883\Documents\csharp\ex21caixaeletronico\bin\Debug\netcoreapp2.1\ex21caixaeletronico.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex21caixaeletronico\bin\Debug\netcoreapp2.1\ex21caixaeletronico.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex21caixaeletronico\bin\Debug\netcoreapp2.1\ex21caixaeletronico.dll
+C:\Users\34132336883\Documents\csharp\ex21caixaeletronico\bin\Debug\netcoreapp2.1\ex21caixaeletronico.pdb
+C:\Users\34132336883\Documents\csharp\ex21caixaeletronico\obj\Debug\netcoreapp2.1\ex21caixaeletronico.dll
+C:\Users\34132336883\Documents\csharp\ex21caixaeletronico\obj\Debug\netcoreapp2.1\ex21caixaeletronico.pdb

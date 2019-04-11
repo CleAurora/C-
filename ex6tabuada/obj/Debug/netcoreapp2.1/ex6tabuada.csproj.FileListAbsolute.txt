@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex6tabuada\obj\Debug\netcoreapp2.1\ex6tabuada.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex6tabuada\obj\Debug\netcoreapp2.1\ex6tabuada.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex6tabuada\obj\Debug\netcoreapp2.1\ex6tabuada.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex6tabuada\obj\Debug\netcoreapp2.1\ex6tabuada.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex6tabuada\bin\Debug\netcoreapp2.1\ex6tabuada.deps.json
+C:\Users\34132336883\Documents\csharp\ex6tabuada\bin\Debug\netcoreapp2.1\ex6tabuada.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex6tabuada\bin\Debug\netcoreapp2.1\ex6tabuada.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex6tabuada\bin\Debug\netcoreapp2.1\ex6tabuada.dll
+C:\Users\34132336883\Documents\csharp\ex6tabuada\bin\Debug\netcoreapp2.1\ex6tabuada.pdb
+C:\Users\34132336883\Documents\csharp\ex6tabuada\obj\Debug\netcoreapp2.1\ex6tabuada.dll
+C:\Users\34132336883\Documents\csharp\ex6tabuada\obj\Debug\netcoreapp2.1\ex6tabuada.pdb

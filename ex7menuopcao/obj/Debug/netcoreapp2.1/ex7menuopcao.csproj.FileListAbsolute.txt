@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex7menuopcao\bin\Debug\netcoreapp2.1\ex7menuopcao.deps.json
+C:\Users\34132336883\Documents\csharp\ex7menuopcao\bin\Debug\netcoreapp2.1\ex7menuopcao.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex7menuopcao\bin\Debug\netcoreapp2.1\ex7menuopcao.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex7menuopcao\bin\Debug\netcoreapp2.1\ex7menuopcao.dll
+C:\Users\34132336883\Documents\csharp\ex7menuopcao\bin\Debug\netcoreapp2.1\ex7menuopcao.pdb
+C:\Users\34132336883\Documents\csharp\ex7menuopcao\obj\Debug\netcoreapp2.1\ex7menuopcao.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex7menuopcao\obj\Debug\netcoreapp2.1\ex7menuopcao.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex7menuopcao\obj\Debug\netcoreapp2.1\ex7menuopcao.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex7menuopcao\obj\Debug\netcoreapp2.1\ex7menuopcao.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex7menuopcao\obj\Debug\netcoreapp2.1\ex7menuopcao.dll
+C:\Users\34132336883\Documents\csharp\ex7menuopcao\obj\Debug\netcoreapp2.1\ex7menuopcao.pdb

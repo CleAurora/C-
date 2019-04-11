@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex28datasmedia\bin\Debug\netcoreapp2.1\ex28datasmedia.deps.json
+C:\Users\34132336883\Documents\csharp\ex28datasmedia\bin\Debug\netcoreapp2.1\ex28datasmedia.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex28datasmedia\bin\Debug\netcoreapp2.1\ex28datasmedia.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex28datasmedia\bin\Debug\netcoreapp2.1\ex28datasmedia.dll
+C:\Users\34132336883\Documents\csharp\ex28datasmedia\bin\Debug\netcoreapp2.1\ex28datasmedia.pdb
+C:\Users\34132336883\Documents\csharp\ex28datasmedia\obj\Debug\netcoreapp2.1\ex28datasmedia.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex28datasmedia\obj\Debug\netcoreapp2.1\ex28datasmedia.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex28datasmedia\obj\Debug\netcoreapp2.1\ex28datasmedia.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex28datasmedia\obj\Debug\netcoreapp2.1\ex28datasmedia.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex28datasmedia\obj\Debug\netcoreapp2.1\ex28datasmedia.dll
+C:\Users\34132336883\Documents\csharp\ex28datasmedia\obj\Debug\netcoreapp2.1\ex28datasmedia.pdb

@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex16sexidadepeso10\obj\Debug\netcoreapp2.1\ex16sexidadepeso10.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex16sexidadepeso10\obj\Debug\netcoreapp2.1\ex16sexidadepeso10.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex16sexidadepeso10\obj\Debug\netcoreapp2.1\ex16sexidadepeso10.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex16sexidadepeso10\obj\Debug\netcoreapp2.1\ex16sexidadepeso10.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex16sexidadepeso10\bin\Debug\netcoreapp2.1\ex16sexidadepeso10.deps.json
+C:\Users\34132336883\Documents\csharp\ex16sexidadepeso10\bin\Debug\netcoreapp2.1\ex16sexidadepeso10.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex16sexidadepeso10\bin\Debug\netcoreapp2.1\ex16sexidadepeso10.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex16sexidadepeso10\bin\Debug\netcoreapp2.1\ex16sexidadepeso10.dll
+C:\Users\34132336883\Documents\csharp\ex16sexidadepeso10\bin\Debug\netcoreapp2.1\ex16sexidadepeso10.pdb
+C:\Users\34132336883\Documents\csharp\ex16sexidadepeso10\obj\Debug\netcoreapp2.1\ex16sexidadepeso10.dll
+C:\Users\34132336883\Documents\csharp\ex16sexidadepeso10\obj\Debug\netcoreapp2.1\ex16sexidadepeso10.pdb
