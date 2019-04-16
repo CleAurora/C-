@@ -10,7 +10,7 @@ namespace ex33OOex2alunos
             Aluno[] alunos = new Aluno[4];
             int numAlunos = 0;
             Sala[] salas = new Sala[5];
-            int numSalas = 0;
+            int capacidadeAtual = 0;
             System.Console.WriteLine("Seja bem vindo ao SENAIzinho");
 
 
@@ -33,16 +33,16 @@ namespace ex33OOex2alunos
                     case 1:
                         System.Console.WriteLine("Digite seu nome:");
                         Aluno a = new Aluno();
-                        a.setNome = Console.ReadLine();
+                        a.nome = Console.ReadLine();
 
                         System.Console.WriteLine("Digite sua data de Nascimento");
-                        a.setData = Console.ReadLine();
+                        a.dataNascimento = DateTime.Parse(Console.ReadLine());
 
                         System.Console.WriteLine("Digite seu curso: ");
-                        a.setCurso = Console.ReadLine();
+                        a.curso = Console.ReadLine();
 
-                        System.Console.WriteLine("Digite o número da Sua Sala");
-                        a.setnumeroSala = Console.ReadLine();
+                        // System.Console.WriteLine("Digite o número da Sua Sala");
+                        // a.numeroSala = int.Parse(Console.ReadLine());
                         
                         alunos[numAlunos] = a;
                         numAlunos++;
@@ -53,27 +53,56 @@ namespace ex33OOex2alunos
                     case 2:
                         System.Console.WriteLine("Digite o número da sala:");
                         Sala s = new Sala();
-                        s.numeroSala = Console.ReadLine();
+                        s.numeroSala = int.Parse(Console.ReadLine());
 
-                        System.Console.WriteLine("Digite a Capacidade Atual: ");
-                        s.capacidadeAtual = Console.ReadLine();
+                        // System.Console.WriteLine("Digite a Capacidade Atual: ");
+                        // s.capacidadeAtual = Console.ReadLine();
 
                         System.Console.WriteLine("Digite a Capacidade Total: ");
-                        s.capacidadeTotal = Console.ReadLine();
+                        s.capacidadeTotal = int.Parse(Console.ReadLine());
                         
-                        System.Console.WriteLine("Digite o Aluno: ");
-                        s.alunos = Console.ReadLine();
+                        // System.Console.WriteLine("Digite o Aluno: ");
+                        // s.alunos[capacidadeAtual] = Console.ReadLine();
 
-                        salas[numSalas] = s;
-                        numSalas++;
+                        salas[capacidadeAtual] = s;
+                        capacidadeAtual++;
                         System.Console.WriteLine("Cadastro de Sala Concluído");
-
-
                     break;
+
+                    case 3:
+                        System.Console.WriteLine("Digite o nome do aluno e a sala que ele vai");
+                        s.Adicionar(Console.ReadLine());
+                    break;
+
+                    case 4:
+                        System.Console.WriteLine("Digite o nome do aluno a ser removido");
+                        s.Remover(Console.ReadLine());
+                    break;
+
+                    case 5:
+                        System.Console.WriteLine( "-------------Salas-----------");
+                        System.Console.WriteLine($"Sala de número {s.numeroSala}");
+                        System.Console.WriteLine($"Capacidade Atual: {s.capacidadeAtual}");
+                        System.Console.WriteLine($"Capacidade Total: {s.capacidadeTotal}");
+                        s.Exibir();
+                    break;
+
+                    case 6:
+                        System.Console.WriteLine("----------Alunos----------");
+                        System.Console.WriteLine($"Nome do Aluno: {a.nome}");
+                        System.Console.WriteLine($"Data de Nascimento: {a.dataNascimento}");
+                        System.Console.WriteLine($"Curso: {a.curso}");
+                    break;
+
+                    case 0:
+                        System.Console.WriteLine("Fechando o programa! Obrigado por entrar em SENAIzinho");
+                        sair = true;
+                    break;
+
+                    default:
+                        System.Console.WriteLine("Opção Inválida. Tente Novamente.");
+                        break;
                 }
-
-
-
             }while(!sair);
 
 
