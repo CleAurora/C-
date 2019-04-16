@@ -9,7 +9,10 @@ namespace ex33OOex2alunos
             bool sair = false;
             Aluno[] alunos = new Aluno[4];
             int numAlunos = 0;
+            Sala[] salas = new Sala[5];
+            int numSalas = 0;
             System.Console.WriteLine("Seja bem vindo ao SENAIzinho");
+
 
             do{
                 System.Console.WriteLine("==========SENAIzinho============");
@@ -41,7 +44,7 @@ namespace ex33OOex2alunos
                         System.Console.WriteLine("Digite o número da Sua Sala");
                         a.setnumeroSala = Console.ReadLine();
                         
-                        Alunos[numAlunos] = a;
+                        alunos[numAlunos] = a;
                         numAlunos++;
                         System.Console.WriteLine("Cadastro concluido!");
 
@@ -49,16 +52,21 @@ namespace ex33OOex2alunos
 
                     case 2:
                         System.Console.WriteLine("Digite o número da sala:");
-
+                        Sala s = new Sala();
+                        s.numeroSala = Console.ReadLine();
 
                         System.Console.WriteLine("Digite a Capacidade Atual: ");
-
+                        s.capacidadeAtual = Console.ReadLine();
 
                         System.Console.WriteLine("Digite a Capacidade Total: ");
-
+                        s.capacidadeTotal = Console.ReadLine();
                         
                         System.Console.WriteLine("Digite o Aluno: ");
+                        s.alunos = Console.ReadLine();
 
+                        salas[numSalas] = s;
+                        numSalas++;
+                        System.Console.WriteLine("Cadastro de Sala Concluído");
 
 
                     break;
