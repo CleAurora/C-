@@ -9,34 +9,29 @@ namespace ex34correcaoalunos
         public int CapacidadeTotal {get; set;}
         public string[] Alunos {get; set;}
 
-        public int contadorAlunosAlocados = 0;
-        public void Alocar (){
-            if(CapacidadeAtual==0){
-                System.Console.WriteLine("Limite excedido");
-            }else{
-                System.Console.WriteLine("Qual aluno a ser alocado?");
-                Alunos[contadorAlunosAlocados] = Console.ReadLine();
+        public string AlocarAluno (string nomeAluno){
+            if(CapacidadeAtual!=0){
                 
-                contadorAlunosAlocados++;
                 CapacidadeAtual--;
+                Alunos[CapacidadeAtual] = nomeAluno;
+                return $"Aluno(a) {nomeAluno} cadastrado com sucesso!"; // não declarei meu public como void, mas como string, assim não preciso do cw; e essa mensagem é o que vai retornar pro meu usuário.
+            }else{
+                return "Limite excedido";
             }
         }
 
         
-        public void Remover(){
-            int i = 0;
-            foreach (string item in Alunos) {
-                //System.Console.WriteLine(aluno);
-                System.Console.WriteLine("Qual o nome a ser removido?");
-                string nome = Console.ReadLine();
+        public string RemoverAluno(string nomeAluno){
+           for (int i = 0; i < Alunos.Length; i++){
+               if(Alunos[i] != null && nomeAluno.Equals(Alunos[i])){
+                   Alunos[i] = null;
+                   CapacidadeAtual ++;
+                   return $"Aluno(a) {nomeAluno} removido com sucesso!";
+               }
+           }
+           return $"Não foi possível remover o aluno(a) {nomeAluno}";
                 
-                if (nome.Equals(item)){
-                Alunos[i] = "";
-                CapacidadeAtual--;
-                }
-                i++;
-                
-            }
+            
         }
     }
 }
