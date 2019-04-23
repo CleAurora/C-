@@ -60,26 +60,39 @@ namespace ex35correcaopizza {
             string email;
             string senha;
 
-            System.Console.WriteLine ($"Digite o emal");
-            email = Console.ReadLine ();
+            bool logado = false;
+            do{
+                System.Console.WriteLine ($"Digite o email");
+                email = Console.ReadLine ();
 
-            System.Console.WriteLine ("Digite a senha");
-            senha = Console.ReadLine ();
+                System.Console.WriteLine ("Digite a senha");
+                senha = Console.ReadLine ();
 
-            foreach (var item in ArrayDeUsuarios) {
-                if (email.Equals (item.Email) && senha.Equals (item.Senha)) {
-                    Console.WriteLine ("Bem vindo a matrix");
 
-                } else {
-                    System.Console.WriteLine ("Email ou senha invalidos");
+                foreach (var item in ArrayDeUsuarios) {
+                    if(item == null){
+                        break;
+                    }
+                    
+                    if (email.Equals (item.Email) && senha.Equals (item.Senha)) {
+                        Console.WriteLine ($"{item.Nome}! Bem vindo a Pizzaria!!");
+                        logado = true;
+
+
+                    } else {
+                        System.Console.WriteLine ("Email ou senha invalidos");
+                    }
                 }
-            }
+            } while(logado == false);
         }
 
         public static void ListarUsuario () {
             foreach (var item in ArrayDeUsuarios) {
                 if (item != null) {
                     System.Console.WriteLine ($"ID: {item.Id} nome: {item.Nome}");
+                    // System.Console.WriteLine($"Nome: {item.Nome}");
+                    // System.Console.WriteLine($"Email: {item.Email}");
+                    // System.Console.WriteLine($"Data da Criação: {item.DataCriacao}");
                 }
 
             }
