@@ -248,12 +248,13 @@ namespace ex34correcaoalunos
                 return null;
             }
 
-            static Sala ProcurarSalaPorNumero(int numeroSala, Sala[] salas){//aqui há um erro que eu não sei resolver a respeito da variavel que eu peguei lá em cima. AINDA NÂO ENTENDI PARAMETROS
+            static Sala ProcurarSalaPorNumero(int numeroSala, Sala[] salas){
                 foreach (Sala item in salas){
-                    if(item != null && numeroSalaAloc.Equals(item.NumeroSala)){
+                    if(item != null && numeroSala.Equals(item.NumeroSala)){
                         return item;
                     }
                 }
+                return null;
             }
     }
 }

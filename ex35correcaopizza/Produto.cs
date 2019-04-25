@@ -8,33 +8,34 @@ namespace ex35correcaopizza
         public int Id {get; set;}
         public string Nome {get; set;}
         public string Descricao {get; set;}
-        public double Preco {get; set;}
+        public float Preco {get; set;}
         public string Categoria {get; set;}
         public DateTime DataCriacao {get; set;}
 
 
-        // public Produto(string nome. string desc, string categoria, float preco) - quando instanciar meu metodo construtor, ele já pede todos esses atributos
-        // this.Nome = nome;
-        // this.Descricao = desc;
-        // this.Categoria = cat;
-        // this.Preco = preco;
-        // this.Id = contador + 1;
-        // this.DataCriacao = dateTime.now;
+        public Produto(string nome, string descricao, string categoria, float preco){ //- quando instanciar meu metodo construtor, ele já pede todos esses atributos
+            this.Nome = nome;
+            this.Descricao = descricao;
+            this.Categoria = categoria;
+            this.Preco = preco;
+            this.Id = contador + 1;
+            this.DataCriacao = DateTime.Now;
+        }
 
+        
 
 
         //inserir produto
         public static void InserirProduto(){
-            string produto;
-            double preco;
-            string descricao;
-            string categoria;
+            string nome, descricao, categoria;
+            float preco;
+            
 
             System.Console.WriteLine("Digite o produto:");
-            produto = Console.ReadLine();
+            nome = Console.ReadLine();
             
             System.Console.WriteLine("Digite o preço deste produto: ");
-            preco = double.Parse(Console.ReadLine());
+            preco = float.Parse(Console.ReadLine());
 
 
             System.Console.WriteLine("Descreva o produto");
@@ -43,15 +44,15 @@ namespace ex35correcaopizza
             System.Console.WriteLine("Digite a Categoria do produto (pizza ou bebida):");
             categoria = Console.ReadLine();
             
-            Produto prod = new Produto ();
-            prod.Id = contador + 1;
-            prod.Nome = produto;
-            prod.Preco = preco;
-            prod.Descricao = descricao;
-            prod.Categoria = categoria;
-            prod.DataCriacao = DateTime.Now;
+            // Produto prod = new Produto ();
+            // prod.Id = contador + 1;
+            // prod.Nome = produto;
+            // prod.Preco = preco;
+            // prod.Descricao = descricao;
+            // prod.Categoria = categoria;
+            // prod.DataCriacao = DateTime.Now;
             //metodo construtor:
-            //Produto prod = new Produto(nome, desc, cat, preco);
+            Produto prod = new Produto(nome, descricao, categoria, preco);
 
             ArrayDeProdutos[contador] = prod;
             contador++;
