@@ -11,14 +11,18 @@ namespace ex34correcaoalunos
             int limiteSalas = 2;
             bool sair = false;
 
+
             Aluno[] alunos = new Aluno[limiteAlunos];
             Sala[] salas = new Sala[limiteSalas];
 
             int contadorAluno = 0;
-            int contadorSala = 0;
+            int salasCadastradas = 0;
+
 
             do{
-                MostrarMensagem("==========SENAIzinho============", TipoMensagemEnum.ERRO);
+                Console.ForegroundColor = ConsoleColor.Red;
+                System.Console.WriteLine("==========SENAIzinho============");
+                Console.ResetColor();
                 System.Console.WriteLine("||                            ||");
                 System.Console.WriteLine("||    Escolha uma opção:      ||");
                 System.Console.WriteLine("||    1. Cadastrar Aluno      ||");
@@ -31,10 +35,11 @@ namespace ex34correcaoalunos
                 System.Console.WriteLine("||============================||");
                 
                 int codigo = int.Parse(Console.ReadLine());
+                string mensagem = "";
 
                 switch (codigo){
-                    case 1:
                     #region CADASTRAR_ALUNO
+                    case 1:
                         //Cadastrar Aluno
 
 
@@ -62,23 +67,26 @@ namespace ex34correcaoalunos
                     break;
                     #endregion
 
-                    case 2:
                     #region CADASTRAR_SALA
+                    case 2:
 
                         //Cadastrar Sala
-                        if(contadorSala<1){
-                            Sala s = new Sala();
+                        if(limiteSalas != salasCadastradas){
+
                             System.Console.WriteLine("Digite o número da sala: ");
-                            s.NumeroSala = int.Parse(Console.ReadLine());
+                            int numeroSalaCadastrar = int.Parse(Console.ReadLine());
+
                             System.Console.WriteLine("Digite a Capacidade total: ");
-                            s.CapacidadeTotal = int.Parse(Console.ReadLine());
+                            int CapacidadeTotalCadastrar = int.Parse(Console.ReadLine());
 
-                            s.CapacidadeAtual = s.CapacidadeTotal;
-                            s.Alunos = new string[s.CapacidadeTotal];//declarando que o máximo de alunos é a capacidade total - to criando meu array de string
-                            salas[contadorSala] = s;
-                            contadorSala++;
+                            
+                            Sala sala = new Sala(numeroSalaCadastrar, CapacidadeTotalCadastrar);
 
-                            MostrarMensagem($"Cadastro de {s.GetType().Name} feito com sucesso!", TipoMensagemEnum.SUCESSO);
+                            salas[salasCadastradas] = sala;
+                            salasCadastradas++;
+                           
+
+                            MostrarMensagem($"Cadastro de {sala.GetType().Name} feito com sucesso!", TipoMensagemEnum.SUCESSO);
                             
                             
                         }else{
@@ -89,15 +97,15 @@ namespace ex34correcaoalunos
 
                     #region ALOCAR_ALUNO
                     case 3:
-                        ValidarAlocarOuRemover(contadorAluno, contadorSala);
+                        ValidarAlocarOuRemover(contadorAluno, salasCadastradas);
 
                         //Aluno nomeAlunoAloc;
                         
                         System.Console.WriteLine("Digite o nome do aluno");
                         string nomeAlunoAloc = Console.ReadLine();
-                        Aluno alunoRecuperadoAloc = ProcurarAlunoPorNome(nomeAlunoAloc, alunos);
+                        Aluno alunoRecuperado = ProcurarAlunoPorNome(nomeAlunoAloc, alunos);
                        
-                        if (alunoRecuperadoAloc == null){
+                        if (alunoRecuperado == null){
                             MostrarMensagem($"Não há aluno cadastrado com o nome{nomeAlunoAloc}", TipoMensagemEnum.ALERTA);
                             continue;
                         }
@@ -107,29 +115,34 @@ namespace ex34correcaoalunos
 
                         System.Console.WriteLine("Digite o numero da sala");
                         int numeroSalaAloc = int.Parse(Console.ReadLine());
-                        Sala salaRecuperadaAloc = ProcurarSalaPorNumero(numeroSalaAloc, salas);
+                        Sala salaRecuperada = ProcurarSalaPorNumero(numeroSalaAloc, salas);
 
-                        if (salaRecuperadaAloc == null){
+                        if (salaRecuperada == null){
                             MostrarMensagem($"Não há sala cadastrada com o numero{numeroSalaAloc} ", TipoMensagemEnum.ALERTA);
                             continue;
                         }
+                        
+                        if(salaRecuperada.AlocarAluno(alunoRecuperado, out mensagem)){
+                            MostrarMensagem(mensagem, TipoMensagemEnum.SUCESSO);
+                        }else{
+                            MostrarMensagem(mensagem, TipoMensagemEnum.ERRO);
+                        }
 
-                        MostrarMensagem(salaRecuperadaAloc.AlocarAluno(alunoRecuperadoAloc.Nome), TipoMensagemEnum.DESTAQUE);
                     break;
                     #endregion
 
-                    case 4:
                     #region REMOVER_ALUNO
+                    case 4:
                         
-                       ValidarAlocarOuRemover(contadorAluno, contadorSala);
+                       ValidarAlocarOuRemover(contadorAluno, salasCadastradas);
 
                         //Aluno nomeAlunoAloc;
 
                         System.Console.WriteLine("Digite o nome do aluno");
                         string nomeAlunoRem = Console.ReadLine();
-                        Aluno alunoRecuperadoRem = ProcurarAlunoPorNome(nomeAlunoRem, alunos);
+                        Aluno alunoRemover = ProcurarAlunoPorNome(nomeAlunoRem, alunos);
 
-                        if (alunoRecuperadoRem == null){
+                        if (alunoRemover == null){
 
                             MostrarMensagem($"Não há aluno cadastrado com o nome {nomeAlunoRem}", TipoMensagemEnum.ALERTA);
                             continue; 
@@ -141,20 +154,24 @@ namespace ex34correcaoalunos
 
                         System.Console.WriteLine("Digite o numero da sala");
                         int numeroSalaRem = int.Parse(Console.ReadLine());
-                        Sala salaRecuperadaRem = ProcurarSalaPorNumero(numeroSalaRem, salas);
+                        Sala salaRemover = ProcurarSalaPorNumero(numeroSalaRem, salas);
 
-                        if (salaRecuperadaRem == null){
+                        if (salaRemover == null){
                             MostrarMensagem($"Não há sala cadastrada com o nome {numeroSalaRem}", TipoMensagemEnum.ALERTA);
                             continue;
                         }
 
-                        MostrarMensagem(salaRecuperadaRem.RemoverAluno(alunoRecuperadoRem.Nome), TipoMensagemEnum.ALERTA);
+                        if(salaRemover.RemoverAluno(alunoRemover.Nome, out mensagem)){
+                            MostrarMensagem(mensagem, TipoMensagemEnum.SUCESSO);
+                        }else{
+                            MostrarMensagem(mensagem, TipoMensagemEnum.ERRO);
+                        }
 
                     break;
                     #endregion
 
-                    case 5:
                     #region LISTAR SALAS
+                    case 5:
                         //Listas salas
                         foreach (var item in salas){
                             if(item != null){
@@ -169,8 +186,8 @@ namespace ex34correcaoalunos
                     break;
                     #endregion
 
-                    case 6:
                     #region LISTAR_ALUNOS
+                    case 6:
                         //Listar alunos
                         foreach (var item in alunos){
                             if(item != null){
@@ -192,10 +209,6 @@ namespace ex34correcaoalunos
                 }
             }while(!sair);
 
-            
-
-
-          
         }
 
             static void MostrarMensagem(string mensagem, TipoMensagemEnum tipoMensagem){
