@@ -26,6 +26,7 @@ namespace ex36PastelariaMVC
                         UsuarioViewModel usuarioRetornado = UsuarioViewController.EfetuarLogin();
                         if(usuarioRetornado != null){
                             System.Console.WriteLine($"Bem vindo {usuarioRetornado.Nome}");
+                            MenuUtil.MenuLogado();
                         }
                     break;
 
