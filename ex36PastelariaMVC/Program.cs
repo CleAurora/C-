@@ -10,6 +10,7 @@ namespace ex36PastelariaMVC
         static void Main(string[] args)
         {
             int opcaoDeslogado = 0;
+            int opcaoLogado = 0;
            do{
                //Menu Deslogado
                 MenuUtil.MenuDeslogado();
@@ -26,7 +27,40 @@ namespace ex36PastelariaMVC
                         UsuarioViewModel usuarioRetornado = UsuarioViewController.EfetuarLogin();
                         if(usuarioRetornado != null){
                             System.Console.WriteLine($"Bem vindo {usuarioRetornado.Nome}");
-                            MenuUtil.MenuLogado();
+
+                            do{   
+                                MenuUtil.MenuLogado();
+
+                                opcaoLogado = int.Parse(Console.ReadLine());
+
+                                switch(opcaoLogado){
+                                    case 1:
+                                        ProdutoViewControler.CadastrarProduto();
+                                    break;
+
+                                    case 2:
+                                        ProdutoViewControler.ListarProdutos();
+                                    break;
+
+                                    case 3:
+                                        ProdutoViewControler.BuscarProdutoPorId();
+                                    break;
+
+                                    case 0:
+                                        //sair
+                                        System.Console.WriteLine("Você pediu para deslogar");
+                                    break;
+
+                                    default:
+                                        System.Console.WriteLine("Opção Inválida");
+                                    break;
+                                }
+
+                            }while(opcaoLogado != 0);
+                         
+                            
+
+
                         }
                     break;
 
@@ -38,6 +72,7 @@ namespace ex36PastelariaMVC
 
                     case 0:
                         //Sair
+                        System.Console.WriteLine("Você pediu para sair!");
                     break;
 
                     default:
