@@ -14,7 +14,7 @@ namespace ex37Kanban.Repositorio
             listaDeUsuarios.Add (usuario);
             return usuario;
         }
-        public List<UsuarioViewModel> Listar(){
+        public static List<UsuarioViewModel> Listar(){
             return listaDeUsuarios;
         }
 

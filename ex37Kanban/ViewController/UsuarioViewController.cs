@@ -11,10 +11,10 @@ namespace ex37Kanban.ViewController
         // Instanciar um repositorio
         static UsuarioRepositorio usuarioRepositorio = new UsuarioRepositorio();
 
-        // public static ValidacoesUtil { get; private set; }
+        
 
         public static void CadastrarUsuario(){
-            string nome, email, senha, confirmaSenha;
+            string nome, email, senha, confirmaSenha, opcaoTipos =" ";
 
             do{
                 System.Console.WriteLine("Digite o nome do usuário");
@@ -36,8 +36,29 @@ namespace ex37Kanban.ViewController
                 
             }while(!ValidacaoUtil.ValidadorDeEmail(email));
 
+            Utils.MenuUtil.MenuTipoUsuario();
+            int opcaoTipoMenu = int.Parse(Console.ReadLine());
+            
             do{
-                System.Console.WriteLine("Digite a senha");
+                switch (opcaoTipoMenu){
+                    case 1:
+                        opcaoTipos = "Usuário";
+                    break;
+
+                    case 2:
+                        opcaoTipos = "Admin";
+                    break;
+
+                    default:
+                        System.Console.WriteLine("Opção Inválida");
+                    break; 
+                }
+            }while(opcaoTipoMenu > 2 || opcaoTipoMenu < 0);
+
+            
+
+            do{
+                System.Console.WriteLine("Digite a senha a ser cadastrada");
                 senha = Console.ReadLine();
                 
                 System.Console.WriteLine("Confirme a senha");
@@ -48,10 +69,13 @@ namespace ex37Kanban.ViewController
                 }
             }while(!ValidacaoUtil.ValidadorDeSenha(senha, confirmaSenha));
 
+
+
             UsuarioViewModel usuarioViewModel = new UsuarioViewModel();
             usuarioViewModel.Nome = nome;
             usuarioViewModel.Email = email;
             usuarioViewModel.Senha = senha;
+            usuarioViewModel.Tipo = opcaoTipos;
 
             usuarioRepositorio.Inserir(usuarioViewModel);
             System.Console.WriteLine("Usuário Cadstrado com sucesso");
@@ -59,14 +83,18 @@ namespace ex37Kanban.ViewController
 
         }//Fim do cadastro do usuário
 
-        public static void ListarUsuario(){
-            List<UsuarioViewModel> listaDeUsuario = usuarioRepositorio.Listar();
+        public static void ListarUsuario(UsuarioViewModel us){
 
-            foreach(var item in listaDeUsuario){
-                System.Console.WriteLine($"Id: {item.Id} - Nome: {item.Nome} - Email: {item.Email} - senha: {item.Senha} - Data Da Criação: {item.DataCriacao}");
-            }
+            foreach (var item in UsuarioRepositorio.Listar()){
+                if (us.Tipo.Equals("Adimin")){
+                    System.Console.WriteLine($"Id: {item.Id} - Nome: {item.Nome} - Email: {item.Email} - senha: {item.Senha} - Data Da Criação: {item.DataCriacao}");
+                }else{
+                    System.Console.WriteLine($"Id: {item.Id} - Nome: {item.Nome} - Email: {item.Email} ");
+                }
+                
         }//Fim listar usuário
 
+}
         public static UsuarioViewModel EfetuarLogin(){
             string email, senha;
             do{
