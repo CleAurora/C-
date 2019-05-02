@@ -1,5 +1,8 @@
 using System;
+using System.Collections.Generic;
+using ex37Kanban.Repositorio;
 using ex37Kanban.Utils;
+using ex37Kanban.ViewModel;
 
 namespace ex37Kanban.ViewController
 {
@@ -45,8 +48,48 @@ namespace ex37Kanban.ViewController
                 }
             }while(!ValidacaoUtil.ValidadorDeSenha(senha, confirmaSenha));
 
+            UsuarioViewModel usuarioViewModel = new UsuarioViewModel();
+            usuarioViewModel.Nome = nome;
+            usuarioViewModel.Email = email;
+            usuarioViewModel.Senha = senha;
 
-        }
+            usuarioRepositorio.Inserir(usuarioViewModel);
+            System.Console.WriteLine("Usuário Cadstrado com sucesso");
+
+
+        }//Fim do cadastro do usuário
+
+        public static void ListarUsuario(){
+            List<UsuarioViewModel> listaDeUsuario = usuarioRepositorio.Listar();
+
+            foreach(var item in listaDeUsuario){
+                System.Console.WriteLine($"Id: {item.Id} - Nome: {item.Nome} - Email: {item.Email} - senha: {item.Senha} - Data Da Criação: {item.DataCriacao}");
+            }
+        }//Fim listar usuário
+
+        public static UsuarioViewModel EfetuarLogin(){
+            string email, senha;
+            do{
+                System.Console.WriteLine("Digite o e-mail");
+                email = Console.ReadLine();
+                
+                if(!ValidacaoUtil.ValidadorDeEmail(email)){
+                    System.Console.WriteLine("E-mail invá");
+                }
+            }while(!ValidacaoUtil.ValidadorDeEmail(email));
+
+            System.Console.WriteLine("Digite a senha:");
+            senha = Console.ReadLine();
+            
+            UsuarioViewModel usuarioRetornado = usuarioRepositorio.BuscarUsuario(email, senha);
+
+            if (usuarioRetornado != null){
+                return usuarioRetornado;
+            }else{
+                System.Console.WriteLine($"Usuário ou Senha inválida");
+                return usuarioRetornado;
+            }
+        }//fim efetuar Login
 
     }
 }

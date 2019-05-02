@@ -74,6 +74,7 @@ namespace ex34correcaoalunos {
 
                 string mensagem = "";
                 //SAIR
+                #endregion
 
                 switch (codigo) {
                     #region CADASTRAR_ALUNO
