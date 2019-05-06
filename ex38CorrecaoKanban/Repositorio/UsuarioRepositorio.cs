@@ -8,13 +8,20 @@ namespace ex38CorrecaoKanban.Repositorio
     public class UsuarioRepositorio
     {
         public UsuarioViewModel Inserir(UsuarioViewModel usuario){
-            usuario.Id = 1;
+            List<UsuarioViewModel> listaDeUsuarios = Listar();
+
+            int contador = 0;
+            if(listaDeUsuarios != null){
+                contador = listaDeUsuarios.Count;
+            }
+            
+            usuario.Id = contador + 1;
             usuario.DataCriacao = DateTime.Now;
 
             //Gera um arquivo CSV
 
             StreamWriter sw = new StreamWriter("usuarios.csv", true);
-            sw.WriteLine($"{usuario.Id}; {usuario.Nome}; {usuario.Email}; {usuario.Senha}; {usuario.DataCriacao}"); //estou escrevendo essa linha no sw
+            sw.WriteLine($"{usuario.Id};{usuario.Nome};{usuario.Email};{usuario.Senha};{usuario.DataCriacao}"); //estou escrevendo essa linha no sw
 
             sw.Close();
 
@@ -49,5 +56,21 @@ namespace ex38CorrecaoKanban.Repositorio
 
             return listaDeUsuarios;
         }//fim listar
+
+        public UsuarioViewModel BuscarUsuario(string email, string senha){
+            
+            List<UsuarioViewModel> listaDeUsuarios = Listar();
+            foreach (var item in listaDeUsuarios){
+
+                if(email.Equals(item.Email) && senha.Equals(item.Senha)){
+                    return item;
+                }//fim if validador email e senha
+                
+            }// fim foreach
+
+            return null;
+        }//fim BuscarUsuario
+
+
     }//fim public class
 }//fim namespace

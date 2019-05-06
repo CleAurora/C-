@@ -59,8 +59,30 @@ namespace ex38CorrecaoKanban.ViewController
 
             foreach (var item in listaDeUsuarios){
                 System.Console.WriteLine($"ID {item.Id} - Nome {item.Nome} - E-mail: {item.Email} - Senha: {item.Senha} - Data da Criação: {item.DataCriacao}");
-            }
+            }//fim foreach
             
         }//fim listar usuário
-    }
-}
+
+        public static UsuarioViewModel EfetuarLogin(){
+            string email, senha;
+
+            System.Console.WriteLine("Digite seu e-mail");
+            email = Console.ReadLine();
+            
+            System.Console.WriteLine("Digite sua senha");
+            senha = Console.ReadLine();
+            
+            UsuarioViewModel usuarioRecuperado = usuarioRepositorio.BuscarUsuario(email, senha);
+
+            if(usuarioRecuperado != null) {
+                return usuarioRecuperado;
+            }
+
+            System.Console.WriteLine("Usuário ou Senha Inválidas");
+            return null;
+        }// fim EfetuarLogin
+
+        
+
+    }// fim public class
+}//fim namespace
