@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex29geradorabobrinha\obj\Debug\netcoreapp2.1\ex29geradorabobrinha.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex29geradorabobrinha\obj\Debug\netcoreapp2.1\ex29geradorabobrinha.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex29geradorabobrinha\obj\Debug\netcoreapp2.1\ex29geradorabobrinha.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex29geradorabobrinha\obj\Debug\netcoreapp2.1\ex29geradorabobrinha.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex29geradorabobrinha\bin\Debug\netcoreapp2.1\ex29geradorabobrinha.deps.json
+C:\Users\34132336883\Documents\csharp\ex29geradorabobrinha\bin\Debug\netcoreapp2.1\ex29geradorabobrinha.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex29geradorabobrinha\bin\Debug\netcoreapp2.1\ex29geradorabobrinha.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex29geradorabobrinha\bin\Debug\netcoreapp2.1\ex29geradorabobrinha.dll
+C:\Users\34132336883\Documents\csharp\ex29geradorabobrinha\bin\Debug\netcoreapp2.1\ex29geradorabobrinha.pdb
+C:\Users\34132336883\Documents\csharp\ex29geradorabobrinha\obj\Debug\netcoreapp2.1\ex29geradorabobrinha.dll
+C:\Users\34132336883\Documents\csharp\ex29geradorabobrinha\obj\Debug\netcoreapp2.1\ex29geradorabobrinha.pdb

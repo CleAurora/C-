@@ -1,0 +1,11 @@
+/Users/cleisaurorapereira/GitHub/CSharp/ex37Kanban/obj/Debug/netcoreapp2.1/ex37Kanban.csprojAssemblyReference.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex37Kanban/obj/Debug/netcoreapp2.1/ex37Kanban.csproj.CoreCompileInputs.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex37Kanban/obj/Debug/netcoreapp2.1/ex37Kanban.AssemblyInfoInputs.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex37Kanban/obj/Debug/netcoreapp2.1/ex37Kanban.AssemblyInfo.cs
+/Users/cleisaurorapereira/GitHub/CSharp/ex37Kanban/bin/Debug/netcoreapp2.1/ex37Kanban.deps.json
+/Users/cleisaurorapereira/GitHub/CSharp/ex37Kanban/bin/Debug/netcoreapp2.1/ex37Kanban.runtimeconfig.json
+/Users/cleisaurorapereira/GitHub/CSharp/ex37Kanban/bin/Debug/netcoreapp2.1/ex37Kanban.runtimeconfig.dev.json
+/Users/cleisaurorapereira/GitHub/CSharp/ex37Kanban/bin/Debug/netcoreapp2.1/ex37Kanban.dll
+/Users/cleisaurorapereira/GitHub/CSharp/ex37Kanban/bin/Debug/netcoreapp2.1/ex37Kanban.pdb
+/Users/cleisaurorapereira/GitHub/CSharp/ex37Kanban/obj/Debug/netcoreapp2.1/ex37Kanban.dll
+/Users/cleisaurorapereira/GitHub/CSharp/ex37Kanban/obj/Debug/netcoreapp2.1/ex37Kanban.pdb

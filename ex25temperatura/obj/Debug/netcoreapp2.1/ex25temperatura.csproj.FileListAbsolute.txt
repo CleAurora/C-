@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex25temperatura\obj\Debug\netcoreapp2.1\ex25temperatura.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex25temperatura\obj\Debug\netcoreapp2.1\ex25temperatura.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex25temperatura\obj\Debug\netcoreapp2.1\ex25temperatura.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex25temperatura\obj\Debug\netcoreapp2.1\ex25temperatura.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex25temperatura\bin\Debug\netcoreapp2.1\ex25temperatura.deps.json
+C:\Users\34132336883\Documents\csharp\ex25temperatura\bin\Debug\netcoreapp2.1\ex25temperatura.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex25temperatura\bin\Debug\netcoreapp2.1\ex25temperatura.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex25temperatura\bin\Debug\netcoreapp2.1\ex25temperatura.dll
+C:\Users\34132336883\Documents\csharp\ex25temperatura\bin\Debug\netcoreapp2.1\ex25temperatura.pdb
+C:\Users\34132336883\Documents\csharp\ex25temperatura\obj\Debug\netcoreapp2.1\ex25temperatura.dll
+C:\Users\34132336883\Documents\csharp\ex25temperatura\obj\Debug\netcoreapp2.1\ex25temperatura.pdb

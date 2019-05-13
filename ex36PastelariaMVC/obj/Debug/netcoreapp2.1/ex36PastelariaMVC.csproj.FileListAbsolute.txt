@@ -1,0 +1,11 @@
+/Users/cleisaurorapereira/GitHub/CSharp/ex36PastelariaMVC/bin/Debug/netcoreapp2.1/ex36PastelariaMVC.deps.json
+/Users/cleisaurorapereira/GitHub/CSharp/ex36PastelariaMVC/bin/Debug/netcoreapp2.1/ex36PastelariaMVC.runtimeconfig.json
+/Users/cleisaurorapereira/GitHub/CSharp/ex36PastelariaMVC/bin/Debug/netcoreapp2.1/ex36PastelariaMVC.runtimeconfig.dev.json
+/Users/cleisaurorapereira/GitHub/CSharp/ex36PastelariaMVC/bin/Debug/netcoreapp2.1/ex36PastelariaMVC.dll
+/Users/cleisaurorapereira/GitHub/CSharp/ex36PastelariaMVC/bin/Debug/netcoreapp2.1/ex36PastelariaMVC.pdb
+/Users/cleisaurorapereira/GitHub/CSharp/ex36PastelariaMVC/obj/Debug/netcoreapp2.1/ex36PastelariaMVC.csprojAssemblyReference.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex36PastelariaMVC/obj/Debug/netcoreapp2.1/ex36PastelariaMVC.csproj.CoreCompileInputs.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex36PastelariaMVC/obj/Debug/netcoreapp2.1/ex36PastelariaMVC.AssemblyInfoInputs.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex36PastelariaMVC/obj/Debug/netcoreapp2.1/ex36PastelariaMVC.AssemblyInfo.cs
+/Users/cleisaurorapereira/GitHub/CSharp/ex36PastelariaMVC/obj/Debug/netcoreapp2.1/ex36PastelariaMVC.dll
+/Users/cleisaurorapereira/GitHub/CSharp/ex36PastelariaMVC/obj/Debug/netcoreapp2.1/ex36PastelariaMVC.pdb

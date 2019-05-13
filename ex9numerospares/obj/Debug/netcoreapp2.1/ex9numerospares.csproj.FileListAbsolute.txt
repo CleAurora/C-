@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex9numerospares\obj\Debug\netcoreapp2.1\ex9numerospares.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex9numerospares\obj\Debug\netcoreapp2.1\ex9numerospares.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex9numerospares\obj\Debug\netcoreapp2.1\ex9numerospares.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex9numerospares\obj\Debug\netcoreapp2.1\ex9numerospares.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex9numerospares\bin\Debug\netcoreapp2.1\ex9numerospares.deps.json
+C:\Users\34132336883\Documents\csharp\ex9numerospares\bin\Debug\netcoreapp2.1\ex9numerospares.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex9numerospares\bin\Debug\netcoreapp2.1\ex9numerospares.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex9numerospares\bin\Debug\netcoreapp2.1\ex9numerospares.dll
+C:\Users\34132336883\Documents\csharp\ex9numerospares\bin\Debug\netcoreapp2.1\ex9numerospares.pdb
+C:\Users\34132336883\Documents\csharp\ex9numerospares\obj\Debug\netcoreapp2.1\ex9numerospares.dll
+C:\Users\34132336883\Documents\csharp\ex9numerospares\obj\Debug\netcoreapp2.1\ex9numerospares.pdb

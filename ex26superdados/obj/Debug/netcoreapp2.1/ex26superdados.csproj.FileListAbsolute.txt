@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex26superdados\obj\Debug\netcoreapp2.1\ex26superdados.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex26superdados\obj\Debug\netcoreapp2.1\ex26superdados.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex26superdados\obj\Debug\netcoreapp2.1\ex26superdados.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex26superdados\obj\Debug\netcoreapp2.1\ex26superdados.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex26superdados\bin\Debug\netcoreapp2.1\ex26superdados.deps.json
+C:\Users\34132336883\Documents\csharp\ex26superdados\bin\Debug\netcoreapp2.1\ex26superdados.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex26superdados\bin\Debug\netcoreapp2.1\ex26superdados.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex26superdados\bin\Debug\netcoreapp2.1\ex26superdados.dll
+C:\Users\34132336883\Documents\csharp\ex26superdados\bin\Debug\netcoreapp2.1\ex26superdados.pdb
+C:\Users\34132336883\Documents\csharp\ex26superdados\obj\Debug\netcoreapp2.1\ex26superdados.dll
+C:\Users\34132336883\Documents\csharp\ex26superdados\obj\Debug\netcoreapp2.1\ex26superdados.pdb

@@ -1,0 +1,11 @@
+/Users/cleisaurorapereira/GitHub/CSharp/ex34correcaoalunos/bin/Debug/netcoreapp2.1/ex34correcaoalunos.deps.json
+/Users/cleisaurorapereira/GitHub/CSharp/ex34correcaoalunos/bin/Debug/netcoreapp2.1/ex34correcaoalunos.runtimeconfig.json
+/Users/cleisaurorapereira/GitHub/CSharp/ex34correcaoalunos/bin/Debug/netcoreapp2.1/ex34correcaoalunos.runtimeconfig.dev.json
+/Users/cleisaurorapereira/GitHub/CSharp/ex34correcaoalunos/bin/Debug/netcoreapp2.1/ex34correcaoalunos.dll
+/Users/cleisaurorapereira/GitHub/CSharp/ex34correcaoalunos/bin/Debug/netcoreapp2.1/ex34correcaoalunos.pdb
+/Users/cleisaurorapereira/GitHub/CSharp/ex34correcaoalunos/obj/Debug/netcoreapp2.1/ex34correcaoalunos.csprojAssemblyReference.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex34correcaoalunos/obj/Debug/netcoreapp2.1/ex34correcaoalunos.csproj.CoreCompileInputs.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex34correcaoalunos/obj/Debug/netcoreapp2.1/ex34correcaoalunos.AssemblyInfoInputs.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex34correcaoalunos/obj/Debug/netcoreapp2.1/ex34correcaoalunos.AssemblyInfo.cs
+/Users/cleisaurorapereira/GitHub/CSharp/ex34correcaoalunos/obj/Debug/netcoreapp2.1/ex34correcaoalunos.dll
+/Users/cleisaurorapereira/GitHub/CSharp/ex34correcaoalunos/obj/Debug/netcoreapp2.1/ex34correcaoalunos.pdb

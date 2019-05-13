@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex15idademaior\bin\Debug\netcoreapp2.1\ex15idademaior.deps.json
+C:\Users\34132336883\Documents\csharp\ex15idademaior\bin\Debug\netcoreapp2.1\ex15idademaior.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex15idademaior\bin\Debug\netcoreapp2.1\ex15idademaior.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex15idademaior\bin\Debug\netcoreapp2.1\ex15idademaior.dll
+C:\Users\34132336883\Documents\csharp\ex15idademaior\bin\Debug\netcoreapp2.1\ex15idademaior.pdb
+C:\Users\34132336883\Documents\csharp\ex15idademaior\obj\Debug\netcoreapp2.1\ex15idademaior.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex15idademaior\obj\Debug\netcoreapp2.1\ex15idademaior.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex15idademaior\obj\Debug\netcoreapp2.1\ex15idademaior.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex15idademaior\obj\Debug\netcoreapp2.1\ex15idademaior.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex15idademaior\obj\Debug\netcoreapp2.1\ex15idademaior.dll
+C:\Users\34132336883\Documents\csharp\ex15idademaior\obj\Debug\netcoreapp2.1\ex15idademaior.pdb

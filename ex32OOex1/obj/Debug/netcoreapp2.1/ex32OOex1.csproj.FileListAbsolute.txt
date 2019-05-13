@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex32OOex1\bin\Debug\netcoreapp2.1\ex32OOex1.deps.json
+C:\Users\34132336883\Documents\csharp\ex32OOex1\bin\Debug\netcoreapp2.1\ex32OOex1.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex32OOex1\bin\Debug\netcoreapp2.1\ex32OOex1.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex32OOex1\bin\Debug\netcoreapp2.1\ex32OOex1.dll
+C:\Users\34132336883\Documents\csharp\ex32OOex1\bin\Debug\netcoreapp2.1\ex32OOex1.pdb
+C:\Users\34132336883\Documents\csharp\ex32OOex1\obj\Debug\netcoreapp2.1\ex32OOex1.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex32OOex1\obj\Debug\netcoreapp2.1\ex32OOex1.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex32OOex1\obj\Debug\netcoreapp2.1\ex32OOex1.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex32OOex1\obj\Debug\netcoreapp2.1\ex32OOex1.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex32OOex1\obj\Debug\netcoreapp2.1\ex32OOex1.dll
+C:\Users\34132336883\Documents\csharp\ex32OOex1\obj\Debug\netcoreapp2.1\ex32OOex1.pdb

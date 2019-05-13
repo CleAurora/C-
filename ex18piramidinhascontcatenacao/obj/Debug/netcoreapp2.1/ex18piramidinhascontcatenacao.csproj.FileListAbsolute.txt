@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex18piramidinhascontcatenacao\obj\Debug\netcoreapp2.1\ex18piramidinhascontcatenacao.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex18piramidinhascontcatenacao\obj\Debug\netcoreapp2.1\ex18piramidinhascontcatenacao.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex18piramidinhascontcatenacao\obj\Debug\netcoreapp2.1\ex18piramidinhascontcatenacao.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex18piramidinhascontcatenacao\obj\Debug\netcoreapp2.1\ex18piramidinhascontcatenacao.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex18piramidinhascontcatenacao\bin\Debug\netcoreapp2.1\ex18piramidinhascontcatenacao.deps.json
+C:\Users\34132336883\Documents\csharp\ex18piramidinhascontcatenacao\bin\Debug\netcoreapp2.1\ex18piramidinhascontcatenacao.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex18piramidinhascontcatenacao\bin\Debug\netcoreapp2.1\ex18piramidinhascontcatenacao.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex18piramidinhascontcatenacao\bin\Debug\netcoreapp2.1\ex18piramidinhascontcatenacao.dll
+C:\Users\34132336883\Documents\csharp\ex18piramidinhascontcatenacao\bin\Debug\netcoreapp2.1\ex18piramidinhascontcatenacao.pdb
+C:\Users\34132336883\Documents\csharp\ex18piramidinhascontcatenacao\obj\Debug\netcoreapp2.1\ex18piramidinhascontcatenacao.dll
+C:\Users\34132336883\Documents\csharp\ex18piramidinhascontcatenacao\obj\Debug\netcoreapp2.1\ex18piramidinhascontcatenacao.pdb

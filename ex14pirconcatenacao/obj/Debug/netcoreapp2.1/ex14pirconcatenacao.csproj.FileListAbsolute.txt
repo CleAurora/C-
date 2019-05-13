@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex14pirconcatenacao\bin\Debug\netcoreapp2.1\ex14pirconcatenacao.deps.json
+C:\Users\34132336883\Documents\csharp\ex14pirconcatenacao\bin\Debug\netcoreapp2.1\ex14pirconcatenacao.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex14pirconcatenacao\bin\Debug\netcoreapp2.1\ex14pirconcatenacao.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex14pirconcatenacao\bin\Debug\netcoreapp2.1\ex14pirconcatenacao.dll
+C:\Users\34132336883\Documents\csharp\ex14pirconcatenacao\bin\Debug\netcoreapp2.1\ex14pirconcatenacao.pdb
+C:\Users\34132336883\Documents\csharp\ex14pirconcatenacao\obj\Debug\netcoreapp2.1\ex14pirconcatenacao.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex14pirconcatenacao\obj\Debug\netcoreapp2.1\ex14pirconcatenacao.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex14pirconcatenacao\obj\Debug\netcoreapp2.1\ex14pirconcatenacao.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex14pirconcatenacao\obj\Debug\netcoreapp2.1\ex14pirconcatenacao.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex14pirconcatenacao\obj\Debug\netcoreapp2.1\ex14pirconcatenacao.dll
+C:\Users\34132336883\Documents\csharp\ex14pirconcatenacao\obj\Debug\netcoreapp2.1\ex14pirconcatenacao.pdb

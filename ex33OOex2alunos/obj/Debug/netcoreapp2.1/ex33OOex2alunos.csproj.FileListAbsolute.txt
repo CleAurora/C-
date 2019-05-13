@@ -1,0 +1,17 @@
+C:/Users/34132336883/Documents/csharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.csprojAssemblyReference.cache
+C:/Users/34132336883/Documents/csharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.csproj.CoreCompileInputs.cache
+C:/Users/34132336883/Documents/csharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.AssemblyInfoInputs.cache
+C:/Users/34132336883/Documents/csharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.AssemblyInfo.cs
+C:/Users/34132336883/Documents/csharp/ex33OOex2alunos/bin/Debug/netcoreapp2.1/ex33OOex2alunos.deps.json
+C:/Users/34132336883/Documents/csharp/ex33OOex2alunos/bin/Debug/netcoreapp2.1/ex33OOex2alunos.runtimeconfig.json
+C:/Users/34132336883/Documents/csharp/ex33OOex2alunos/bin/Debug/netcoreapp2.1/ex33OOex2alunos.runtimeconfig.dev.json
+C:/Users/34132336883/Documents/csharp/ex33OOex2alunos/bin/Debug/netcoreapp2.1/ex33OOex2alunos.dll
+C:/Users/34132336883/Documents/csharp/ex33OOex2alunos/bin/Debug/netcoreapp2.1/ex33OOex2alunos.pdb
+C:/Users/34132336883/Documents/csharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.dll
+C:/Users/34132336883/Documents/csharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.pdb
+/Users/cleisaurorapereira/GitHub/CSharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.csprojAssemblyReference.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.csproj.CoreCompileInputs.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.AssemblyInfoInputs.cache
+/Users/cleisaurorapereira/GitHub/CSharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.AssemblyInfo.cs
+/Users/cleisaurorapereira/GitHub/CSharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.dll
+/Users/cleisaurorapereira/GitHub/CSharp/ex33OOex2alunos/obj/Debug/netcoreapp2.1/ex33OOex2alunos.pdb

@@ -1,0 +1,15 @@
+C:\Users\34132336883\Documents\csharp\obj\Debug\netcoreapp2.1\csharp.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\obj\Debug\netcoreapp2.1\csharp.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\obj\Debug\netcoreapp2.1\csharp.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\obj\Debug\netcoreapp2.1\csharp.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex24pasagemaviao\obj\Debug\netcoreapp2.1\csharp.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex24pasagemaviao\obj\Debug\netcoreapp2.1\csharp.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex24pasagemaviao\obj\Debug\netcoreapp2.1\csharp.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex24pasagemaviao\obj\Debug\netcoreapp2.1\csharp.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex24pasagemaviao\bin\Debug\netcoreapp2.1\csharp.deps.json
+C:\Users\34132336883\Documents\csharp\ex24pasagemaviao\bin\Debug\netcoreapp2.1\csharp.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex24pasagemaviao\bin\Debug\netcoreapp2.1\csharp.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex24pasagemaviao\bin\Debug\netcoreapp2.1\csharp.dll
+C:\Users\34132336883\Documents\csharp\ex24pasagemaviao\bin\Debug\netcoreapp2.1\csharp.pdb
+C:\Users\34132336883\Documents\csharp\ex24pasagemaviao\obj\Debug\netcoreapp2.1\csharp.dll
+C:\Users\34132336883\Documents\csharp\ex24pasagemaviao\obj\Debug\netcoreapp2.1\csharp.pdb

@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex31TsukaairlineOO\bin\Debug\netcoreapp2.1\ex31TsukaairlineOO.deps.json
+C:\Users\34132336883\Documents\csharp\ex31TsukaairlineOO\bin\Debug\netcoreapp2.1\ex31TsukaairlineOO.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex31TsukaairlineOO\bin\Debug\netcoreapp2.1\ex31TsukaairlineOO.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex31TsukaairlineOO\bin\Debug\netcoreapp2.1\ex31TsukaairlineOO.dll
+C:\Users\34132336883\Documents\csharp\ex31TsukaairlineOO\bin\Debug\netcoreapp2.1\ex31TsukaairlineOO.pdb
+C:\Users\34132336883\Documents\csharp\ex31TsukaairlineOO\obj\Debug\netcoreapp2.1\ex31TsukaairlineOO.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex31TsukaairlineOO\obj\Debug\netcoreapp2.1\ex31TsukaairlineOO.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex31TsukaairlineOO\obj\Debug\netcoreapp2.1\ex31TsukaairlineOO.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex31TsukaairlineOO\obj\Debug\netcoreapp2.1\ex31TsukaairlineOO.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex31TsukaairlineOO\obj\Debug\netcoreapp2.1\ex31TsukaairlineOO.dll
+C:\Users\34132336883\Documents\csharp\ex31TsukaairlineOO\obj\Debug\netcoreapp2.1\ex31TsukaairlineOO.pdb

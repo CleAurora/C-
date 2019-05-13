@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex19array\obj\Debug\netcoreapp2.1\ex19array.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex19array\obj\Debug\netcoreapp2.1\ex19array.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex19array\obj\Debug\netcoreapp2.1\ex19array.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex19array\obj\Debug\netcoreapp2.1\ex19array.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex19array\bin\Debug\netcoreapp2.1\ex19array.deps.json
+C:\Users\34132336883\Documents\csharp\ex19array\bin\Debug\netcoreapp2.1\ex19array.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex19array\bin\Debug\netcoreapp2.1\ex19array.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex19array\bin\Debug\netcoreapp2.1\ex19array.dll
+C:\Users\34132336883\Documents\csharp\ex19array\bin\Debug\netcoreapp2.1\ex19array.pdb
+C:\Users\34132336883\Documents\csharp\ex19array\obj\Debug\netcoreapp2.1\ex19array.dll
+C:\Users\34132336883\Documents\csharp\ex19array\obj\Debug\netcoreapp2.1\ex19array.pdb

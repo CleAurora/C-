@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\numerointeiro\obj\Debug\netcoreapp2.1\numerointeiro.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\numerointeiro\obj\Debug\netcoreapp2.1\numerointeiro.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\numerointeiro\obj\Debug\netcoreapp2.1\numerointeiro.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\numerointeiro\obj\Debug\netcoreapp2.1\numerointeiro.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\numerointeiro\bin\Debug\netcoreapp2.1\numerointeiro.deps.json
+C:\Users\34132336883\Documents\csharp\numerointeiro\bin\Debug\netcoreapp2.1\numerointeiro.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\numerointeiro\bin\Debug\netcoreapp2.1\numerointeiro.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\numerointeiro\bin\Debug\netcoreapp2.1\numerointeiro.dll
+C:\Users\34132336883\Documents\csharp\numerointeiro\bin\Debug\netcoreapp2.1\numerointeiro.pdb
+C:\Users\34132336883\Documents\csharp\numerointeiro\obj\Debug\netcoreapp2.1\numerointeiro.dll
+C:\Users\34132336883\Documents\csharp\numerointeiro\obj\Debug\netcoreapp2.1\numerointeiro.pdb

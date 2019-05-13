@@ -1,0 +1,11 @@
+C:\Users\34132336883\Documents\csharp\ex11pin\obj\Debug\netcoreapp2.1\ex11pin.csprojAssemblyReference.cache
+C:\Users\34132336883\Documents\csharp\ex11pin\obj\Debug\netcoreapp2.1\ex11pin.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Documents\csharp\ex11pin\obj\Debug\netcoreapp2.1\ex11pin.AssemblyInfoInputs.cache
+C:\Users\34132336883\Documents\csharp\ex11pin\obj\Debug\netcoreapp2.1\ex11pin.AssemblyInfo.cs
+C:\Users\34132336883\Documents\csharp\ex11pin\bin\Debug\netcoreapp2.1\ex11pin.deps.json
+C:\Users\34132336883\Documents\csharp\ex11pin\bin\Debug\netcoreapp2.1\ex11pin.runtimeconfig.json
+C:\Users\34132336883\Documents\csharp\ex11pin\bin\Debug\netcoreapp2.1\ex11pin.runtimeconfig.dev.json
+C:\Users\34132336883\Documents\csharp\ex11pin\bin\Debug\netcoreapp2.1\ex11pin.dll
+C:\Users\34132336883\Documents\csharp\ex11pin\bin\Debug\netcoreapp2.1\ex11pin.pdb
+C:\Users\34132336883\Documents\csharp\ex11pin\obj\Debug\netcoreapp2.1\ex11pin.dll
+C:\Users\34132336883\Documents\csharp\ex11pin\obj\Debug\netcoreapp2.1\ex11pin.pdb
