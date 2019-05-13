@@ -39,6 +39,7 @@ namespace ex39apptransacao
                                 switch(opcaoLogado){
                                     case 1:
                                         //Cadastro de Transações
+                                        
                                     break;
 
                                     case 2:
@@ -80,3 +81,4 @@ namespace ex39apptransacao
         }//fim static void Main
     }// fim class program
 }// fim name space
+
