@@ -50,6 +50,7 @@ namespace ex40pqnaorodaaqui.ViewController
             transacao.Tipo = tipo;
             transacao.Descricao = descricao;
             transacao.Valor = valor;
+            transacao.IdUsuario = usuario.Nome;
 
             transacaoRepositorio.Inserir(transacao);
             transacaoRepositorio.CriarArquivo();//estou criando / substituindo meu arquivo de word
@@ -60,11 +61,18 @@ namespace ex40pqnaorodaaqui.ViewController
 
         }//fim cadastrar transação
 
-        public static void Listar(){
+        public static void Listar(UsuarioViewModel usuario){
+
+            //UsuarioViewModel us = new UsuarioViewModel();
             List<TransacaoViewModel> listaDeTransacoes = transacaoRepositorio.Listar();
 
+
             foreach (var item in listaDeTransacoes){
-                 System.Console.WriteLine($"ID: {item.Id} - Tipo: {item.Tipo} - Descrição:{item.Descricao} - Valor: {item.Valor} - Data de Criação: {item.Data}");
+                if (usuario.Nome.Equals(item.IdUsuario)){
+
+                    System.Console.WriteLine($"Responsável pela Transação: {usuario.Nome} ID: {item.Id} - Tipo: {item.Tipo} - Descrição:{item.Descricao} - Valor: {item.Valor} - Data de Criação: {item.Data}");
+                }
+
             }
         }//fim listar
     }

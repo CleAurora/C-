@@ -1,7 +1,9 @@
 using System;
+using ex40pqnaorodaaqui.Repositorio;
 using ex40pqnaorodaaqui.Utils;
 using ex40pqnaorodaaqui.ViewController;
 using ex40pqnaorodaaqui.ViewModel;
+using Ionic.Zip;
 
 namespace ex39apptransacao {
     class Program {
@@ -36,27 +38,33 @@ namespace ex39apptransacao {
                                     case 1:
                                         //Cadastro de Transações
                                         TransacaoViewController.CadastrarTransacao(usuarioRecuperado);
-                                        break;
+                                    break;
 
                                     case 2:
                                         //Extrato das Transações
-                                        TransacaoViewController.Listar();
-                                        break;
+                                        TransacaoViewController.Listar(usuarioRecuperado);
+                                    break;
+
+                                    case 3:
+                                        //Criar os arquivos  csv tipo zip
+                                        var transacaoRepositorio = new TransacaoRepositorio();
+                                        transacaoRepositorio.CriarZip();
+                                    break;
 
                                     case 0:
                                         //Sair
                                         System.Console.WriteLine ("Você pediu para sair");
-                                        break;
+                                    break;
 
                                     default:
                                         System.Console.WriteLine ("Opção Inválida");
-                                        break;
+                                    break;
                                 }
 
                             } while (opcaoLogado != 0);
                         }
 
-                        break;
+                    break;
 
                     case 3:
                         //Listar Usuarios
@@ -66,11 +74,11 @@ namespace ex39apptransacao {
                     case 0:
                         //sair
                         System.Console.WriteLine ("Você pediu para sair");
-                        break;
+                    break;
 
                     default:
                         System.Console.WriteLine ("Opção inválida");
-                        break;
+                    break;
 
                 }
 

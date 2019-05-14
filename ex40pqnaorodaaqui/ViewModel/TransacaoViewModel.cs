@@ -8,5 +8,6 @@ namespace ex40pqnaorodaaqui.ViewModel
         public string Descricao {get; set;}
         public DateTime Data {get; set;}
         public float Valor {get; set;}
+        public string IdUsuario {get; set;}
     }
 }
